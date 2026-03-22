@@ -61,12 +61,9 @@ python  equation_shift_cipher.py  encrypt  "hello world"
 **Example output:**
 
   
-
-text
-
   
 
-```Bash
+```text
 
 Encrypted  message:  28062415317231793375374233863543
 
